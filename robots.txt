@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /mahjong-ways-2-kembali-jadi-perbincangan-setelah-banyak-pemain-mendapatkan-hasil.html
+	/cara-baru-bermain-mahjong-ways-2-tanpa-risiko-berlebihan-namun-tetap-konsinten.html
+	/mahjong-ways-2-dianggap-sebagai-permainan-strategi-paling-menantang-dan-menyenangkan.html
+	/tips-lengkap-memahami-pola-permainan-mahjong-ways-2-yang-sering-dipakai-pemain.html
+	/fakta-unik-mahjong-ways-2-gampang-menang-setiap-hari.html
+
+# Sitemap lokasi
+Sitemap: https://karyanews.github.io/news/sitemap.xml
